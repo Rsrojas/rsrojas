@@ -4,4 +4,3 @@ import numpy as np
 
 
 st.title('Uber pickups in NYC')
-write("Hola")
