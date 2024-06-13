@@ -1,5 +1,5 @@
 import streamlit as st
-from menu import menu
+from ejemplo.menu import menu
 
 # Initialize st.session_state.role to None
 if "role" not in st.session_state:
